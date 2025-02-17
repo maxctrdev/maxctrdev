@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif?cid=790b76111ro3r50727l6tk3vbhyd2qj8eu7nbu1tx4zr67mf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40">Soy Max
+## <img src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif?cid=790b76111ro3r50727l6tk3vbhyd2qj8eu7nbu1tx4zr67mf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50">Soy Max
 
 Me dedico al desarrollo web 💻, sigo en aprendizaje y realizando otras actividades relacionadas al tema. Si quieres contactarme puedes escribirme en twitter.
 
