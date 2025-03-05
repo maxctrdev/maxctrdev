@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif?cid=790b76111ro3r50727l6tk3vbhyd2qj8eu7nbu1tx4zr67mf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50">Soy Max
 
-Me dedico al desarrollo web 💻, sigo en aprendizaje y realizando otras actividades relacionadas al tema. Si quieres contactarme puedes escribirme en twitter.
+Me dedico al desarrollo web 💻, sigo en aprendizaje y realizando otras actividades relacionadas al tema.
 
  <a href="https://www.x.com/max_c_t_r" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/max_c_t_r?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
