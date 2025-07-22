@@ -40,8 +40,9 @@
  
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=maxctrdev&show_icons=true&theme=radical)
 
-<img src="https://raw.githubusercontent.com/maxctrdev/maxctrdev/output/snake.svg" alt="Snake animation" />
+---
 
+![snake gif](https://github.com/maxctrdev/maxctrdev/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
