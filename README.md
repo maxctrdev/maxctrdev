@@ -45,6 +45,7 @@
    ### 📊 Métricas GitHub 📊
    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=maxctrdev&show_icons=true&theme=radical&hide_border=true" />
    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxctrdev&layout=compact&theme=radical&hide_border=true" />
+   
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxctrdev&theme=radical&hide_border=true" width="60%" />
 </div>
 
