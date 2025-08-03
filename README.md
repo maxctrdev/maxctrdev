@@ -34,7 +34,7 @@
    
    ### 🛠️ Stack Tecnológico y Herramientas 🛠️
    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,bootstrap,npm" alt="tech stack" height="50" />
-   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="tools" height="50" />
+   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools" height="50" />
 </div>
 
 ---
