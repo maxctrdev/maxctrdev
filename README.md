@@ -20,11 +20,11 @@
 
 <div align="left">
       
-   Hola soy Max, tengo un gran interés en el desarrollo Frontend y en el diseño UI/UX, ya que creo que una interfaz bien pensada puede transformar por completo la experiencia del usuario.
+   Hola soy Max, tengo un gran interés en el desarrollo Frontend y en el diseño UI/UX, creo que una interfaz bien pensada puede transformar por completo la experiencia del usuario.
    
-- 🔭 Actualmente trabajando en **proyectos de desarrollo web**<br>
-- 🌱 Aprendiendo **Javascript, Vue 3, TypeScript, Tailwind CSS** y temas relacionados<br>
-- ⚡ Fun fact: **📷 Me gusta sacar fotos de cosas random que nunca subo a ningún lado.**<br>
+- Actualmente trabajando en **proyectos de desarrollo web**<br>
+- Aprendiendo **Javascript, React, TypeScript, Tailwind CSS** y temas relacionados<br>
+- Fun fact: **📷 Me gusta sacar fotos de cosas random que nunca subo a ningún lado.**<br>
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
    
-   ### 🛠️ Stack Tecnológico y Herramientas 🛠️
+   ### Stack Tecnológico y Herramientas
    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,bootstrap,npm" alt="tech stack" height="50" />
    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools" height="50" />
 </div>
@@ -42,7 +42,7 @@
 
 <div align="center">
    
-   ### 📊 Métricas GitHub 📊
+   ### Métricas GitHub
    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=maxctrdev&show_icons=true&theme=radical&hide_border=true" />
    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxctrdev&layout=compact&theme=radical&hide_border=true" />
 </div>
@@ -51,9 +51,9 @@
 
 <div align="center">
    
-   ### 🐍 Mi Contribución en Tiempo Real
+   ### Mi Contribución en Tiempo Real
    ![Snake animation](https://github.com/maxctrdev/maxctrdev/blob/output/github-snake-dark.svg)
 </div>
 
 ---
-<p align="center">⭐️ ¡Gracias por visitar! ⭐️</p>
+<p align="center"> Gracias por visitar! </p>
