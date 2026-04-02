@@ -16,44 +16,48 @@
    </div>
 </div>
 
-<h1 align="center">👋 ¡Hola a todos!</h1>
-
-<div align="left">
-      
-   Hola soy Max, tengo un gran interés en el desarrollo Frontend y en el diseño UI/UX, creo que una interfaz bien pensada puede transformar por completo la experiencia del usuario.
-   
-- Actualmente trabajando en **proyectos de desarrollo web**<br>
-- Aprendiendo **Javascript, React, TypeScript, Tailwind CSS** y temas relacionados<br>
-- Fun fact: **📷 Me gusta sacar fotos de cosas random que nunca subo a ningún lado.**<br>
-
-</div>
-
----
+<br>
 
 <div align="center">
-   
-   ### Stack Tecnológico y Herramientas
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,bootstrap,npm" alt="tech stack" height="50" />
-   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools" height="50" />
+  <a href="https://github.com/maxctrdev">
+    <img src="https://img.shields.io/github/followers/maxctrdev">
+  </a>
+  <a href="https://github.com/maxctrdev">
+    <img src="https://komarev.com/ghpvc/?username=maxctrdev">
+  </a>
 </div>
 
----
+<br>
 
+<div>
 
-<div align="center">
-   
-   ### Métricas GitHub
-   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=maxctrdev&show_icons=true&theme=radical&hide_border=true" />
-   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxctrdev&layout=compact&theme=radical&hide_border=true" />
+  #### Sobre mí
+  ```ts
+  const max = {
+    name: "Max Clever Tineo Romero",
+    location: "Perú",
+    role: "Full stack Developer",
+    interests: ["Diseño UI/UX", "Desarrollo Frontend"],
+    currentlyWorkingOn: "Proyectos de desarrollo web",
+    funFact: "Tomo fotos random que nunca subo a ningún lado"
+  };
+  ```
 </div>
 
----
+<div>
 
-<div align="center">
-   
-   ### Mi Contribución en Tiempo Real
-   ![Snake animation](https://github.com/maxctrdev/maxctrdev/blob/output/github-snake-dark.svg)
+  #### Stack tecnológico y herramientas
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,react,tailwind,npm,express,mysql" alt="tech stack" height="50" />
+   <br>
+   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="tools" height="50" />   
 </div>
 
----
-<p align="center"> Gracias por visitar! </p>
+<div>
+
+  #### Mi contribución en tiempo real
+  ![Snake animation](https://github.com/maxctrdev/maxctrdev/blob/output/github-snake-dark.svg)
+</div>
+
+
+
+
